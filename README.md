@@ -1,6 +1,13 @@
-![Photos de crêpes](https://www.ajc-formation.fr/wp-content/uploads/2024/10/cropped-Logotype_AJC_Formation_bleu-480x293.png)
+![AJC FORMATION](https://www.ajc-formation.fr/wp-content/uploads/2024/10/cropped-Logotype_AJC_Formation_bleu-480x293.png)
 
-# Recette de la pâte à crêpes
+
+# Participants
+
+Chef de Projet 	:  	SteeveFormateur
+Developpeur 	:	SteeveDeveloppeur
+
+
+# Client : Lycée Samuel Paty
 
 Tiré de la *fameuse recette* disponible sur [Internet](https://crepes.com/recette)
 
