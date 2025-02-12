@@ -7,21 +7,17 @@ Developpeur 	:	SteeveDeveloppeur
 
 Tiré de la *fameuse recette* disponible sur [Internet](https://crepes.com/recette)
 
-## Ingrédients
+## Informations
 
-* Des œufs
-* De la farine
-* Du lait
-* Du sucre
-* ~~De l'huile de coude~~
+Note comprise entre 0 et 20 
 
 > N'hésitez pas à faire **moitié-moitié** avec du sucre vanillé pour plus de goût !
 
 ### Tableau des Mentions
 
-| œufs | farine | lait | sucre |
-|-------|--------|------|-------|
-|   3   |  300g  | 60cl |  20g  |
+|     0          | > 0 & < 8 |
+|----------------|-----------|
+|   Eliminé(e)   |   Echec   |
 
 ## Étapes
 
