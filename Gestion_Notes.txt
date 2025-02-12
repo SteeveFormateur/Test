@@ -1,2 +1,4 @@
 1 - Mettre en place un programme permettant de gérer les mentions d’une classe de 5 élèves.
 On affichera « Admis » ou « Echec » en fonction de la note.
+
+2 - On affichera également le moyenne de la classe, la moyenne max, la moyenne min 
