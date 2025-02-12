@@ -1,0 +1,5 @@
+/temp
+/images/*
+!/images/*.png
+!/images/*.bmp
+!/images/*.jpg
