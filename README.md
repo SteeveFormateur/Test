@@ -8,12 +8,16 @@
 Chef de Projet 	:  	SteeveFormateur
 Developpeur 	:	SteeveDeveloppeur
 
+# Objectifs
+Affiche "Admis(e) ou Echec" 
 
 # Site Internet [Internet](http://www.ajc-formation.fr)
 
 ## Informations
 
 Note comprise entre 0 et 20 
+'Note Invalide ! " en dehors de cette intervalle
+
 
 > N'hésitez pas à faire **moitié-moitié** avec du sucre vanillé pour plus de goût !
 
