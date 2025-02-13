@@ -14,6 +14,16 @@ Developpeur 	:	SteeveDeveloppeur
 ## Informations
 
 Note comprise entre 0 et 20 
+Rappel des mentions :
+- 0 : Eliminé(e)
+- ]0-8[ : Echec
+- [8-10[ : Rattrapage
+- [10-12[ : Passable
+- [12-14[ : Assez Bien
+- [14-16[ : Bien
+- [16-20] : TB
+
+
 
 > N'hésitez pas à faire **moitié-moitié** avec du sucre vanillé pour plus de goût !
 
