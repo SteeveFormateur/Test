@@ -8,7 +8,8 @@
 Chef de Projet 	:  	SteeveFormateur
 Developpeur 	:	SteeveDeveloppeur
 
-Tiré de la *fameuse recette* disponible sur [Internet](https://crepes.com/recette)
+
+# Site Internet [Internet](http://www.ajc-formation.fr)
 
 ## Informations
 
